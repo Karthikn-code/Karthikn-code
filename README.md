@@ -1,10 +1,12 @@
 <h1 align="center">Hey 👋, I'm Karthik</h1>
 <h3 align="center">🚀 Software Developer | AI/ML Explorer | Flutter Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=👀+Visitors+are+checking+my+profile...;📊+Stats+updating+live...;🚀+Building+something+awesome..." />
-</p>
+## ⚡ Live Dev Metrics
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karthikn-code&label=Profile+Traffic&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Karthikn-code/Karthikn-code?label=Last%20Update&style=flat-square" />
+</p>
 ---
 
 ## 🧠 About Me
