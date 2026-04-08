@@ -92,3 +92,34 @@
 
 ```text
 Code. Break. Fix. Learn. Repeat.
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthikn-code&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthikn-code&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karthikn-code&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthikn-code&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthikn-code&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikn-code&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Ultra Premium 😈)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karthikn-code/Karthikn-code/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
