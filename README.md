@@ -55,8 +55,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Karthikn-code&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikn-code&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-51-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Streak-3-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-3-00F7FF?style=for-the-badge" />
 </p>
 
 <p align="center">
