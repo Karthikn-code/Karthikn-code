@@ -1,12 +1,15 @@
 <h1 align="center">Hey 👋, I'm Karthik</h1>
 <h3 align="center">🚀 Software Developer | AI/ML Explorer | Flutter Enthusiast</h3>
 
+---
+
 ## ⚡ Live Dev Metrics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karthikn-code&label=Profile+Traffic&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/Karthikn-code/Karthikn-code?label=Last%20Update&style=flat-square" />
 </p>
+
 ---
 
 ## 🧠 About Me
@@ -22,9 +25,7 @@
 ## ⚡ Tech Arsenal
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,dart,flutter,spring,mysql,mongodb,docker,kubernetes,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,dart,flutter,spring,mysql,mongodb,docker,kubernetes,git,github" />
 </p>
 
 ---
@@ -36,14 +37,10 @@
 - 🧠 Built with **Machine Learning + Flutter**  
 - 🎯 Helps farmers identify diseases quickly  
 
----
-
 ### ⚙️ Backend & DevOps Work
 - 🔹 Spring Boot REST APIs  
 - 🔹 Docker containerization  
 - 🔹 Kubernetes orchestration basics  
-
----
 
 ### 💻 Other Works
 - 📝 Java Text Editor  
@@ -65,23 +62,7 @@
 
 ---
 
-## ⚡ Contribution Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthikn-code&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Productivity Insights
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthikn-code&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthikn-code&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 ## 🔥 Activity Graph
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikn-code&theme=tokyo-night" />
@@ -89,12 +70,6 @@
 
 ---
 
-## 🔥 Developer Pulse
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthikn-code&theme=tokyonight&utcOffset=5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthikn-code&theme=tokyonight" />
-</p>
 ## 🏆 Achievements & Growth
 
 - 🚀 Built and deployed **real-world ML application**
@@ -119,6 +94,7 @@
 </p>
 
 ---
+
 ## 💡 Developer Mindset
 
 ```text
