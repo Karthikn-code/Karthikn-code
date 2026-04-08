@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | AI/ML Explorer | Flutter Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthikn-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=👀+Visitors+are+checking+my+profile...;📊+Stats+updating+live...;🚀+Building+something+awesome..." />
 </p>
 
 ---
