@@ -1,28 +1,94 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Karthik</h1>
+<h3 align="center">🚀 Software Developer | AI/ML Explorer | Flutter Enthusiast</h3>
 
-<!--
-**Karthikn-code/Karthikn-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthikn-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=karthikn-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikn-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karthikn-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karthikn-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 🎓 Student passionate about **building impactful tech**
+- 📱 Developing **AI-powered mobile applications**
+- 🤖 Exploring **Machine Learning & Computer Vision**
+- ⚙️ Learning **Backend + DevOps (Docker & Kubernetes)**
+- 🚀 Goal: Become a **Full-Stack AI Engineer**
+
+---
+
+## ⚡ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,dart,flutter,spring,mysql,mongodb,docker,kubernetes,git,github" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 Rubber Leaf Disease Detection
+- 📱 AI-powered mobile app to detect plant diseases  
+- 🧠 Built with **Machine Learning + Flutter**  
+- 🎯 Helps farmers identify diseases quickly  
+
+---
+
+### ⚙️ Backend & DevOps Work
+- 🔹 Spring Boot REST APIs  
+- 🔹 Docker containerization  
+- 🔹 Kubernetes orchestration basics  
+
+---
+
+### 💻 Other Works
+- 📝 Java Text Editor  
+- 🤖 Python Bot Projects  
+- 🌱 Open Source Contributions  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthikn-code&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikn-code&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikn-code&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements & Growth
+
+- 🚀 Built and deployed **real-world ML application**
+- 🐳 Hands-on with **Docker & Kubernetes**
+- 📈 Continuously improving **problem-solving skills**
+- 🌱 Active learner in **AI + Mobile Development**
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:karthikn11092001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Karthikn-code">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+```text
+Code. Break. Fix. Learn. Repeat.
