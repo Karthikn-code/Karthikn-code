@@ -117,6 +117,11 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karthikn-code/Karthikn-code/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 💡 Developer Mindset
 
