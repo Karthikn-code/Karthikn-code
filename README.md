@@ -55,9 +55,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Analyzing+My+GitHub+Activity...;Tracking+Consistency+🚀;Building+Everyday..." />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthikn-code&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthikn-code&theme=tokyonight&utcOffset=5.5" />
+</p>
 ---
 
 <p align="center">
