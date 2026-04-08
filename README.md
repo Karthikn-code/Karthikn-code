@@ -53,16 +53,44 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikn-code&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikn-code&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikn-code&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Analyzing+My+Code+Universe...;Tracking+My+Contributions...;Building+Consistency+Everyday+🚀" />
 </p>
 
 ---
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthikn-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikn-code&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikn-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+</p>
+
+---
+
+## ⚡ Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthikn-code&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Live Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karthikn-code/Karthikn-code/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Developer Pulse
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthikn-code&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthikn-code&theme=tokyonight" />
+</p>
 ## 🏆 Achievements & Growth
 
 - 🚀 Built and deployed **real-world ML application**
