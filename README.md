@@ -68,7 +68,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikn-code&layout=compact&theme=tokyonight&hide_border=true" 
        onerror="this.style.display='none'" />
 </p>
----
 
 ## ⚡ Contribution Overview
 
