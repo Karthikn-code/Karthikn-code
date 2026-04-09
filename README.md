@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Karthikn-code&label=Profile+Traffic&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/Karthikn-code/Karthikn-code?label=Last%20Update&style=flat-square" />
 </p>
----
 
 ## 🧠 About Me
 
