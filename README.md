@@ -55,12 +55,12 @@
 ## 📊 GitHub Analytics ⚡
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Karthikn-code&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikn-code&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Karthikn-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0&v=1" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Karthikn-code&theme=tokyonight&hide_border=true&cache_seconds=0&v=1" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikn-code&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikn-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0&v=1" />
 </p>
 
 ---
